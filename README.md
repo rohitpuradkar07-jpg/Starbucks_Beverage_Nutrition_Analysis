@@ -31,16 +31,6 @@ Questions addressed by this project include:
 
 ---
 
-## Dashboard Preview
-
-> Add dashboard screenshots here.
-
-### Executive Dashboard
-
-![Dashboard Screenshot](images/dashboard.png)
-
----
-
 ## Key Performance Indicators (KPIs)
 
 ### Total Beverages
