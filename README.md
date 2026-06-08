@@ -186,14 +186,4 @@ Starbucks_Beverage_Nutrition_Analysis/
 
 I'm an aspiring Data Analyst passionate about transforming raw data into actionable business insights through analytics, visualization, and storytelling.
 
-### Connect With Me
-
-LinkedIn: [Add Your LinkedIn]
-
-Portfolio: [Add Portfolio Link]
-
-GitHub: https://github.com/rohitpuradkar07-jpg
-
----
-
 ⭐ If you found this project useful, consider giving the repository a star.
